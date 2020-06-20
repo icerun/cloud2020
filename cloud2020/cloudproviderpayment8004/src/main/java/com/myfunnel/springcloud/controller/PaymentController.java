@@ -22,10 +22,11 @@ public class PaymentController {
     @Value("${server.port}")
     private String serverPort;
 
-    @GetMapping(value = "/zk/get")
+    @GetMapping(value = "/payment/zk")
     public String paymentzk() {
-
-        return "Spring cloud with zk port:" + serverPort + "\t" + UUID.randomUUID().toString();
+        String randomCode = "Spring cloud with zk port:" + serverPort + "\t" + UUID.randomUUID().toString();
+        System.out.println("支付流水号randomCode:" + randomCode);
+        return randomCode;
     }
 
 }
