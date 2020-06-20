@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8085cc2-b454-4bd8-b462-cca939d1b8c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloudproviderpayment8004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudproviderpayment8004/src/main/java/com/myfunnel/springcloud/PaymentMain8004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudproviderpayment8004/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7001/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-api-commons/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloudproviderpayment8004/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/java/com/myfunnel/springcloud/PaymentMain8004.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloudproviderpayment8004/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudproviderpayment8004/src/main/java/com/myfunnel/springcloud/PaymentMain8004.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="150" />
+    <option name="y" value="320" />
+    <option name="width" value="1685" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myfunnel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myfunnel" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproviderpayment8004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloudproviderpayment8004/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myObject\myrepository\cloud2020\cloud2020\cloud2020\cloudproviderpayment8004\src\main\java" />
+      <recent name="D:\myObject\myrepository\cloud2020\cloud2020\cloud2020\cloudproviderpayment8004\src\main\resources" />
+      <recent name="D:\myObject\myrepository\cloud2020\cloud2020\cloud2020" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentMain8002">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="D:/java/javaApps" />
+      <option name="WORKING_DIRECTORY" value="D:/java/javaApps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaServer7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfunnel.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfunnel.springcloud.CloudEurekaServer7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaServer7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfunnel.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfunnel.springcloud.CloudEurekaServer7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfunne.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfunne.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfunnel.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfunnel.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfunnel.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.CloudEurekaServer7002" />
+        <item itemvalue="Spring Boot.CloudEurekaServer7001" />
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8085cc2-b454-4bd8-b462-cca939d1b8c0" name="Default Changelist" comment="" />
+      <created>1586087757270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586087757270</updated>
+      <workItem from="1586087758738" duration="3781000" />
+      <workItem from="1588086777969" duration="1388000" />
+      <workItem from="1592628134380" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5418000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16756032" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Sequence" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="bottom" id="MyBatis Log" order="18" />
+      <window_info anchor="bottom" id="Tail" order="19" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Mybatis datasource" order="8" side_tool="true" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+      <window_info anchor="right" id="Codota" order="13" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="277" height="633" key="Git.Branch.Popup" />
+    <state width="277" height="633" key="Git.Branch.Popup/1920.1080" />
+    <state width="277" height="633" key="Git.Branch.Popup@1920.1080@120dpi" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/myfunnel/springcloud/CloudEurekaServer7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/payment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/myfunnel/springcloud/PaymentMain8004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8004/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/java/com/myfunnel/springcloud/PaymentMain8004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproviderpayment8004/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud-provider-payment8001</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
