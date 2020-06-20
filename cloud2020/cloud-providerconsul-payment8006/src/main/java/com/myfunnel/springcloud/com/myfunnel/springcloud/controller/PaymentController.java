@@ -1,4 +1,9 @@
-package com.myfunnel.springcloud;
+package com.myfunnel.springcloud.com.myfunnel.springcloud.controller;
+
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.UUID;
 
@@ -8,7 +13,7 @@ import java.util.UUID;
  * @Date 2020/6/20 - 17:32
  */
 @RestController
-@Sl4j
+@Slf4j
 public class PaymentController {
     /**
      * 从配置文件中读取服务端口
